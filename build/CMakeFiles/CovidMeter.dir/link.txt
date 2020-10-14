@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/CovidMeter.dir/main.c.o  -o CovidMeter /usr/lib/arm-linux-gnueabihf/libcurl.so 

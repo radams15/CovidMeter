@@ -1,3 +1,0 @@
-/home/rhys/scripts/c/CovidMeter/build/CMakeFiles/rebuild_cache.dir
-/home/rhys/scripts/c/CovidMeter/build/CMakeFiles/CovidMeter.dir
-/home/rhys/scripts/c/CovidMeter/build/CMakeFiles/edit_cache.dir
