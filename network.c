@@ -16,7 +16,7 @@ static size_t curl_char_callback(void *contents, size_t size, size_t nmemb, stru
 
     str->len += str_len;
 
-    str->data = realloc(str->data, sizeof(char)*str->len);
+    str->data = realloc(str->data, (sizeof(char)*str->len)+1);
 
     strncat(str->data, (char*) contents, str_len);
 
